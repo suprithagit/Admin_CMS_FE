@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/a1723_next_dist_compiled_69e65dac._.js",
+      "static/chunks/a1723_next_dist_shared_lib_b2cc411e._.js",
+      "static/chunks/a1723_next_dist_client_f519e67c._.js",
+      "static/chunks/a1723_next_dist_76b4cf49._.js",
+      "static/chunks/a1723_react_cb464b00._.js",
+      "static/chunks/a1723_react-dom_cjs_react-dom_development_17505033.js",
+      "static/chunks/a1723_react-dom_114d112e._.js",
+      "static/chunks/a1723_2642ffb9._.js",
+      "static/chunks/[root-of-the-server]__b9f6c1b5._.js",
+      "static/chunks/AdminCMS_801cd8fa._.css",
+      "static/chunks/AdminCMS_src_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-AdminCMS_src_pages__app_ca11294b._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}

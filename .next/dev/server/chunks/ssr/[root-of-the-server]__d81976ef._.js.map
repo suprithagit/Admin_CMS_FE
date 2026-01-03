@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///E:/Labmatrix/CMS_App/CMS_Portfolio/AdminFolder/AdminCMS/src/pages/_app.jsx"],"sourcesContent":["import { ToastContainer } from 'react-toastify';\r\nimport 'react-toastify/dist/ReactToastify.css';\r\nimport '../globals.css';\r\n\r\nexport default function App({ Component, pageProps }) {\r\n  return (\r\n    <>\r\n      <Component {...pageProps} />\r\n      <ToastContainer position=\"top-right\" autoClose={3000} />\r\n    </>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;;;;;;;AAIe,SAAS,IAAI,EAAE,SAAS,EAAE,SAAS,EAAE;IAClD,qBACE;;0BACE,qKAAC;gBAAW,GAAG,SAAS;;;;;;0BACxB,qKAAC,oJAAc;gBAAC,UAAS;gBAAY,WAAW;;;;;;;;AAGtD"}}]
+}

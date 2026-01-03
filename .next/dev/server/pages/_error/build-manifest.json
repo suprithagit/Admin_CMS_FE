@@ -1,0 +1,25 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_error": [
+      "static/chunks/a1723_next_dist_compiled_69e65dac._.js",
+      "static/chunks/a1723_next_dist_shared_lib_fb98f980._.js",
+      "static/chunks/a1723_next_dist_client_f519e67c._.js",
+      "static/chunks/a1723_next_dist_bb41005b._.js",
+      "static/chunks/a1723_next_error_4b52ddaa.js",
+      "static/chunks/[next]_entry_page-loader_ts_bc963baa._.js",
+      "static/chunks/a1723_react_f0d9e961._.js",
+      "static/chunks/a1723_react-dom_cjs_react-dom_development_17505033.js",
+      "static/chunks/a1723_react-dom_114d112e._.js",
+      "static/chunks/a1723_97a4c3b1._.js",
+      "static/chunks/[root-of-the-server]__be14e7c6._.js",
+      "static/chunks/AdminCMS_src_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-AdminCMS_src_pages__error_9892862e._.js"
+    ]
+  },
+  "ampFirstPages": []
+}

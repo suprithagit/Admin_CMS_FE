@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.js",
+  "/skills": "pages/skills.js",
+  "/projects": "pages/projects.js",
+  "/about": "pages/about.js",
+  "/blogs": "pages/blogs.js",
+  "/services": "pages/services.js",
+  "/experience": "pages/experience.js",
+  "/testimonials": "pages/testimonials.js",
+  "/messages": "pages/messages.js",
+  "/media": "pages/media.js"
+}
