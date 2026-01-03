@@ -117,3 +117,14 @@ Supritha RP
 
 ## 📸 Screenshots
 
+<img width="1678" height="810" alt="image" src="https://github.com/user-attachments/assets/d974ba2c-3f28-4bf1-be1c-31622c3fb82b" />
+
+<img width="1814" height="808" alt="image" src="https://github.com/user-attachments/assets/93b07f69-d604-435e-89e4-ddf997a2f29a" />
+
+<img width="1903" height="711" alt="image" src="https://github.com/user-attachments/assets/39b8fa07-5380-45cd-b37c-1ce28988c162" />
+
+<img width="1906" height="768" alt="image" src="https://github.com/user-attachments/assets/ef33b27f-ebb5-4d67-8c56-a65957094ef9" />
+
+<img width="1906" height="817" alt="image" src="https://github.com/user-attachments/assets/561f49b0-e131-4869-8f54-0427e0cf44e4" />
+
+
